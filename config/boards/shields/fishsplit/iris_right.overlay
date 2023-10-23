@@ -1,4 +1,4 @@
-#include "iris.dtsi"
+#include "fishsplit.dtsi"
 
 &default_transform { 
     col-offset = <5>;
